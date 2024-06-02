@@ -10,7 +10,26 @@
       "volume": "",
       "last_updated": "1717350665",
       "groups": {
-        "Jujutsu Kaisen": "                \"https://i.imgur.com/WCUIsbC.jpg\",                 \"https://i.imgur.com/vrE8OE0.jpg\",                 \"https://i.imgur.com/ydMI4QL.jpg\",                 \"https://i.imgur.com/qTqMlqm.jpg\"                 \"https://i.imgur.com/SNYyaOJ.jpg\"                 \"https://i.imgur.com/nptt9oe.jpg\"                 \"https://i.imgur.com/3sqmdKH.jpg\"                 \"https://i.imgur.com/1XLFhcR.jpg\"                 \"https://i.imgur.com/SE2yYOh.jpg\"                   \"https://i.imgur.com/GGa6QMA.jpg\"                 \"https://i.imgur.com/O5D7tJ9.jpg\"                 \"https://i.imgur.com/ldacMgi.jpg\"                 \"https://i.imgur.com/xRxYbcB.jpg\"                 \"https://i.imgur.com/bKo4Cd1.jpg\"                 \"https://i.imgur.com/uZlFXkR.jpg\"                 \"https://i.imgur.com/223Dx5G.jpg\"                 \"https://i.imgur.com/SY3Ds9u.jpg\"                 \"https://i.imgur.com/AhVDFbT.jpg\""
+        "Jujutsu Kaisen": [
+          "                \"https://i.imgur.com/WCUIsbC.jpg\",",
+          "                \"https://i.imgur.com/vrE8OE0.jpg\",",
+          "                \"https://i.imgur.com/ydMI4QL.jpg\",",
+          "                \"https://i.imgur.com/qTqMlqm.jpg\"",
+          "                \"https://i.imgur.com/SNYyaOJ.jpg\"",
+          "                \"https://i.imgur.com/nptt9oe.jpg\"",
+          "                \"https://i.imgur.com/3sqmdKH.jpg\"",
+          "                \"https://i.imgur.com/1XLFhcR.jpg\"",
+          "                \"https://i.imgur.com/SE2yYOh.jpg\"  ",
+          "                \"https://i.imgur.com/GGa6QMA.jpg\"",
+          "                \"https://i.imgur.com/O5D7tJ9.jpg\"",
+          "                \"https://i.imgur.com/ldacMgi.jpg\"",
+          "                \"https://i.imgur.com/xRxYbcB.jpg\"",
+          "                \"https://i.imgur.com/bKo4Cd1.jpg\"",
+          "                \"https://i.imgur.com/uZlFXkR.jpg\"",
+          "                \"https://i.imgur.com/223Dx5G.jpg\"",
+          "                \"https://i.imgur.com/SY3Ds9u.jpg\"",
+          "                \"https://i.imgur.com/AhVDFbT.jpg\""
+        ]
       }
     }
   }
