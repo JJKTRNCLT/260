@@ -298,7 +298,19 @@
       "volume": "",
       "last_updated": "1717684602",
       "groups": {
-        "Jujutsu Kaisen": "/proxy/api/imgur.com/a/MWp9x2a"
+        "Jujutsu Kaisen": [
+          "https://i.imgur.com/ifXgeGg.jpeg",
+          "https://i.imgur.com/r4sd0fg.jpeg",
+          "https://i.imgur.com/caC6of9.jpeg",
+          "https://i.imgur.com/2cETZmU.jpeg",
+          "https://i.imgur.com/W04p9Nr.jpeg",
+          "https://i.imgur.com/4sodg3S.jpeg",
+          "https://i.imgur.com/9qVvT7U.jpeg",
+          "https://i.imgur.com/jwKyrUI.png",
+          "https://i.imgur.com/OSpJ61Y.jpeg",
+          "https://i.imgur.com/cxB3raA.jpeg",
+          "https://i.imgur.com/8mzcWwT.jpeg"
+        ]
       }
     }
   }
