@@ -4,5 +4,14 @@
   "artist": "Логово Шаманов | LetMeSoloScans",
   "author": "Хатэсаке Ао",
   "cover": "https://imgur.com/a/BurSRqA",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Hello World!",
+      "volume": "",
+      "last_updated": "1723396665",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/gNSMwq9"
+      }
+    }
+  }
 }
