@@ -7,10 +7,26 @@
   "chapters": {
     "1": {
       "title": "Hello World!",
-      "volume": "",
+      "volume": "1",
       "last_updated": "1723396665",
       "groups": {
         "Галаксия": "/proxy/api/imgur/chapter/gNSMwq9"
+      }
+    },
+    "2": {
+      "title": "Глава 2: Город повозчиков",
+      "volume": "1",
+      "last_updated": "1729550582",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/mJuZJ50"
+      }
+    },
+    "3": {
+      "title": "Ведь я кенгуру.",
+      "volume": "1",
+      "last_updated": "1729550642",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/czARAvm"
       }
     }
   }
