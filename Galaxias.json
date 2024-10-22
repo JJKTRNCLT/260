@@ -53,6 +53,30 @@
         "Галаксия": "/proxy/api/imgur/chapter/hEZBKPC"
       }
     },
+    "7": {
+      "title": "Городок белого Холма",
+      "volume": "2",
+      "last_updated": "1729619689",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/CAvjstN"
+      }
+    },
+    "8": {
+      "title": "Повадки сея дракона",
+      "volume": "2",
+      "last_updated": "1729619872",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/GB0vUN6"
+      }
+    },
+    "9": {
+      "title": "Командир рыцарского ордена",
+      "volume": "2",
+      "last_updated": "1729619892",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/sS4IKoN"
+      }
+    },
     "5.1": {
       "title": "Дополнительные материалы 1-го тома",
       "volume": "1",
