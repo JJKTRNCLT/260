@@ -44,6 +44,22 @@
       "groups": {
         "Галаксия": "/proxy/api/imgur/chapter/Fv3wGjS"
       }
+    },
+    "6": {
+      "title": "Flyby",
+      "volume": "2",
+      "last_updated": "1729610487",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/hEZBKPC"
+      }
+    },
+    "5.1": {
+      "title": "Дополнительные материалы 1-го тома",
+      "volume": "1",
+      "last_updated": "1729610667",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/OavO0x1"
+      }
     }
   }
 }
