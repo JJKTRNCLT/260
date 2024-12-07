@@ -85,12 +85,36 @@
         "Галаксия": "/proxy/api/imgur/chapter/VvORDDl"
       }
     },
+    "11": {
+      "title": "Нерейд против Чока! (2)",
+      "volume": "2",
+      "last_updated": "1733576748",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/ofSzaV7"
+      }
+    },
     "12": {
       "title": "Нерейд против Чока! (3)",
       "volume": "2",
       "last_updated": "1731928826",
       "groups": {
         "Галаксия": "/proxy/api/imgur/chapter/c4BXf9B"
+      }
+    },
+    "13": {
+      "title": "Шмидт Закман.",
+      "volume": "2",
+      "last_updated": "1733576773",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/b1d86Du"
+      }
+    },
+    "14": {
+      "title": "Полный вперёд!",
+      "volume": "2",
+      "last_updated": "1733576925",
+      "groups": {
+        "Галаксия": "/proxy/api/imgur/chapter/3htka2Y"
       }
     },
     "5.1": {
